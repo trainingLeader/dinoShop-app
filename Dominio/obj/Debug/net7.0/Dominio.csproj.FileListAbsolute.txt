@@ -1,0 +1,12 @@
+D:\projectsNetCore\dinoShop-app\Dominio\bin\Debug\net7.0\Dominio.deps.json
+D:\projectsNetCore\dinoShop-app\Dominio\bin\Debug\net7.0\Dominio.dll
+D:\projectsNetCore\dinoShop-app\Dominio\bin\Debug\net7.0\Dominio.pdb
+D:\projectsNetCore\dinoShop-app\Dominio\obj\Debug\net7.0\Dominio.csproj.AssemblyReference.cache
+D:\projectsNetCore\dinoShop-app\Dominio\obj\Debug\net7.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\projectsNetCore\dinoShop-app\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfoInputs.cache
+D:\projectsNetCore\dinoShop-app\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfo.cs
+D:\projectsNetCore\dinoShop-app\Dominio\obj\Debug\net7.0\Dominio.csproj.CoreCompileInputs.cache
+D:\projectsNetCore\dinoShop-app\Dominio\obj\Debug\net7.0\Dominio.dll
+D:\projectsNetCore\dinoShop-app\Dominio\obj\Debug\net7.0\refint\Dominio.dll
+D:\projectsNetCore\dinoShop-app\Dominio\obj\Debug\net7.0\Dominio.pdb
+D:\projectsNetCore\dinoShop-app\Dominio\obj\Debug\net7.0\ref\Dominio.dll

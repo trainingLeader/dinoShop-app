@@ -1,0 +1,17 @@
+D:\projectsNetCore\dinoShop-app\Aplicacion\bin\Debug\net7.0\Aplicacion.deps.json
+D:\projectsNetCore\dinoShop-app\Aplicacion\bin\Debug\net7.0\Aplicacion.dll
+D:\projectsNetCore\dinoShop-app\Aplicacion\bin\Debug\net7.0\Aplicacion.pdb
+D:\projectsNetCore\dinoShop-app\Aplicacion\bin\Debug\net7.0\Dominio.dll
+D:\projectsNetCore\dinoShop-app\Aplicacion\bin\Debug\net7.0\Persistencia.dll
+D:\projectsNetCore\dinoShop-app\Aplicacion\bin\Debug\net7.0\Dominio.pdb
+D:\projectsNetCore\dinoShop-app\Aplicacion\bin\Debug\net7.0\Persistencia.pdb
+D:\projectsNetCore\dinoShop-app\Aplicacion\obj\Debug\net7.0\Aplicacion.csproj.AssemblyReference.cache
+D:\projectsNetCore\dinoShop-app\Aplicacion\obj\Debug\net7.0\Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+D:\projectsNetCore\dinoShop-app\Aplicacion\obj\Debug\net7.0\Aplicacion.AssemblyInfoInputs.cache
+D:\projectsNetCore\dinoShop-app\Aplicacion\obj\Debug\net7.0\Aplicacion.AssemblyInfo.cs
+D:\projectsNetCore\dinoShop-app\Aplicacion\obj\Debug\net7.0\Aplicacion.csproj.CoreCompileInputs.cache
+D:\projectsNetCore\dinoShop-app\Aplicacion\obj\Debug\net7.0\Aplicacion.csproj.CopyComplete
+D:\projectsNetCore\dinoShop-app\Aplicacion\obj\Debug\net7.0\Aplicacion.dll
+D:\projectsNetCore\dinoShop-app\Aplicacion\obj\Debug\net7.0\refint\Aplicacion.dll
+D:\projectsNetCore\dinoShop-app\Aplicacion\obj\Debug\net7.0\Aplicacion.pdb
+D:\projectsNetCore\dinoShop-app\Aplicacion\obj\Debug\net7.0\ref\Aplicacion.dll

@@ -1,0 +1,17 @@
+D:\projectsNetCore\dinoShop-app\Persistencia\bin\Debug\net7.0\Persistencia.deps.json
+D:\projectsNetCore\dinoShop-app\Persistencia\bin\Debug\net7.0\Persistencia.runtimeconfig.json
+D:\projectsNetCore\dinoShop-app\Persistencia\bin\Debug\net7.0\Persistencia.dll
+D:\projectsNetCore\dinoShop-app\Persistencia\bin\Debug\net7.0\Persistencia.pdb
+D:\projectsNetCore\dinoShop-app\Persistencia\bin\Debug\net7.0\Dominio.dll
+D:\projectsNetCore\dinoShop-app\Persistencia\bin\Debug\net7.0\Dominio.pdb
+D:\projectsNetCore\dinoShop-app\Persistencia\obj\Debug\net7.0\Persistencia.csproj.AssemblyReference.cache
+D:\projectsNetCore\dinoShop-app\Persistencia\obj\Debug\net7.0\Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+D:\projectsNetCore\dinoShop-app\Persistencia\obj\Debug\net7.0\Persistencia.AssemblyInfoInputs.cache
+D:\projectsNetCore\dinoShop-app\Persistencia\obj\Debug\net7.0\Persistencia.AssemblyInfo.cs
+D:\projectsNetCore\dinoShop-app\Persistencia\obj\Debug\net7.0\Persistencia.csproj.CoreCompileInputs.cache
+D:\projectsNetCore\dinoShop-app\Persistencia\obj\Debug\net7.0\Persistencia.csproj.CopyComplete
+D:\projectsNetCore\dinoShop-app\Persistencia\obj\Debug\net7.0\Persistencia.dll
+D:\projectsNetCore\dinoShop-app\Persistencia\obj\Debug\net7.0\refint\Persistencia.dll
+D:\projectsNetCore\dinoShop-app\Persistencia\obj\Debug\net7.0\Persistencia.pdb
+D:\projectsNetCore\dinoShop-app\Persistencia\obj\Debug\net7.0\Persistencia.genruntimeconfig.cache
+D:\projectsNetCore\dinoShop-app\Persistencia\obj\Debug\net7.0\ref\Persistencia.dll
