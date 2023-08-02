@@ -1,7 +1,9 @@
+using System.ComponentModel.DataAnnotations;
+
 namespace Dominio;
-public class TipoPersona
-    {
-        public int IdTipoPersona { get; set; }
+
+public class TipoPersona : BaseEntity
+{
         public string Descripcion { get; set; }
         public ICollection<Persona> Personas { get; set; }
 }

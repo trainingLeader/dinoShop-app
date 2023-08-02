@@ -11,6 +11,7 @@ D:\projectsNetCore\dinoShop-app\DinoApi\bin\Debug\net7.0\Dapper.dll
 D:\projectsNetCore\dinoShop-app\DinoApi\bin\Debug\net7.0\FluentValidation.dll
 D:\projectsNetCore\dinoShop-app\DinoApi\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
 D:\projectsNetCore\dinoShop-app\DinoApi\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\projectsNetCore\dinoShop-app\DinoApi\bin\Debug\net7.0\Humanizer.dll
 D:\projectsNetCore\dinoShop-app\DinoApi\bin\Debug\net7.0\itext.barcodes.dll
 D:\projectsNetCore\dinoShop-app\DinoApi\bin\Debug\net7.0\itext.bouncy-castle-connector.dll
 D:\projectsNetCore\dinoShop-app\DinoApi\bin\Debug\net7.0\itext.forms.dll
@@ -31,6 +32,7 @@ D:\projectsNetCore\dinoShop-app\DinoApi\bin\Debug\net7.0\Microsoft.AspNetCore.Op
 D:\projectsNetCore\dinoShop-app\DinoApi\bin\Debug\net7.0\Microsoft.DotNet.PlatformAbstractions.dll
 D:\projectsNetCore\dinoShop-app\DinoApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
 D:\projectsNetCore\dinoShop-app\DinoApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\projectsNetCore\dinoShop-app\DinoApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
 D:\projectsNetCore\dinoShop-app\DinoApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
 D:\projectsNetCore\dinoShop-app\DinoApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
 D:\projectsNetCore\dinoShop-app\DinoApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
@@ -39,12 +41,14 @@ D:\projectsNetCore\dinoShop-app\DinoApi\bin\Debug\net7.0\Microsoft.IdentityModel
 D:\projectsNetCore\dinoShop-app\DinoApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 D:\projectsNetCore\dinoShop-app\DinoApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
 D:\projectsNetCore\dinoShop-app\DinoApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\projectsNetCore\dinoShop-app\DinoApi\bin\Debug\net7.0\Mono.TextTemplating.dll
 D:\projectsNetCore\dinoShop-app\DinoApi\bin\Debug\net7.0\MySqlConnector.dll
 D:\projectsNetCore\dinoShop-app\DinoApi\bin\Debug\net7.0\Newtonsoft.Json.dll
 D:\projectsNetCore\dinoShop-app\DinoApi\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
 D:\projectsNetCore\dinoShop-app\DinoApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
 D:\projectsNetCore\dinoShop-app\DinoApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\projectsNetCore\dinoShop-app\DinoApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\projectsNetCore\dinoShop-app\DinoApi\bin\Debug\net7.0\System.CodeDom.dll
 D:\projectsNetCore\dinoShop-app\DinoApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
 D:\projectsNetCore\dinoShop-app\DinoApi\bin\Debug\net7.0\Aplicacion.dll
 D:\projectsNetCore\dinoShop-app\DinoApi\bin\Debug\net7.0\Dominio.dll

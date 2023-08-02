@@ -1,7 +1,9 @@
+
 namespace Dominio;
+
 public class Persona
 {
-    public int IdPersona { get; set; }
+    public string IdPersona { get; set; }
     public string NombrePersona { get; set; }
     public string ApellidoPersona { get; set; }
     public int EdadPersona { get; set; }

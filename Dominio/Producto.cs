@@ -1,7 +1,9 @@
+using System.ComponentModel.DataAnnotations;
+
 namespace Dominio;
-public class Producto
+
+public class Producto : BaseEntity
 {
-     public int IdProducto { get; set; }
      public string RefProducto { get; set; }
      public string DescripcionProducto { get; set; }
      public double PrecioProducto { get; set; }
